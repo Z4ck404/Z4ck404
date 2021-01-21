@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/zack_elbazi" target="blank"><img src="https://img.shields.io/twitter/follow/zack_elbazi?logo=twitter&style=for-the-badge" alt="zack_elbazi" /></a> </p>
 
-- 📝 I regularly write articles on [elbazi.me](elbazi.me)
+- 📝 I regularly write articles on [elbazi.me](https://elbazi.me)
 
-- 📄 Know about my experiences [elbazi.co](elbazi.co)
+- 📄 Know about my experiences [elbazi.co](https://elbazi.co)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
