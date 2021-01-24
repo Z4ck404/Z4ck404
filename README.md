@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
-<h3 align="center">A passionate data engineer from Morocco and living in France</h3>
+<h3 align="center">A passionate data engineer from Morocco,living in France</h3>
 
 <p align="left"> <a href="https://twitter.com/zack_elbazi" target="blank"><img src="https://img.shields.io/twitter/follow/zack_elbazi?logo=twitter&style=for-the-badge" alt="zack_elbazi" /></a> </p>
 
