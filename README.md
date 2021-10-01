@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/zack_elbazi" target="blank"><img src="https://img.shields.io/twitter/follow/zack_elbazi?logo=twitter&style=for-the-badge" alt="zack_elbazi" /></a> </p>
 
-- 📝 I regularly write articles on [elbazi.me](https://elbazi.me)
+- 📝 I often write articles on [elbazi.me](https://elbazi.me)
 
 - 📄 Know about my experiences [elbazi.co](https://elbazi.co)
 
