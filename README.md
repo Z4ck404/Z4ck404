@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 
-- 📝 I often write articles on [elbazi.me](https://elbazi.me)
+- 📝 I often write articles on [elbazi.me](https://elbazi.me) and on [awsmorocco.com](https://awsmorocco.com)
 
 - 📄 Know about my experiences [elbazi.co](https://elbazi.co)
 
